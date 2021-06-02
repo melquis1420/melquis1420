@@ -1,4 +1,4 @@
-<h1 align="left">Heyy!!! It's me, Melquis!!</h1>
+## Hey! It's me, Melquis!
 <div>
   <a href="https://github.com/melquis1420">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=melquis1420&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
