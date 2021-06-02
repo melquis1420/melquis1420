@@ -1,4 +1,4 @@
-<h1 align="center">Heyy!!! It's me, Melquis!!</h1>
+<h1 align="left">Heyy!!! It's me, Melquis!!</h1>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=melquis1420&show_icons=true&theme=dracula&locale=en&layout=compact" alt="melquis1420" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=melquis1420&show_icons=true&theme=dracula&locale=en" alt="melquis1420" /></p>
